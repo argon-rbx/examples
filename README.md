@@ -1,2 +1,5 @@
-# examples
-Example projects made with Argon
+# Examples
+
+Example projects made with Argon:
+
+- [Place](https://argon.wiki/examples/place)
