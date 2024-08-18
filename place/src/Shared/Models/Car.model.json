@@ -1,0 +1,20 @@
+{
+  "className": "Part",
+  "properties": {
+    "Size": [4, 1, 2],
+    "Position": [0, 5, 0],
+    "Anchored": true,
+    "Material": "SmoothPlastic",
+    "Color": [0, 0.2, 0.8]
+  },
+  "children": [
+    {
+      "name": "Spray",
+      "className": "Highlight",
+      "properties": {
+        "FillColor": [0, 1, 0],
+        "FillTransparency": 0.75
+      }
+    }
+  ]
+}

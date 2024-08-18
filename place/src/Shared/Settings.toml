@@ -1,0 +1,6 @@
+[Keybinds]
+Jump = "Space"
+Crouch = "C"
+
+[Camera]
+FOV = 90

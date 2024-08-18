@@ -1,0 +1,22 @@
+{
+  "name": "Place",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$path": "src/Shared",
+      "Packages": {
+        "$path": {
+          "optional": "Packages"
+        }
+      }
+    },
+    "ServerScriptService": {
+      "$path": "src/Server"
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/Client"
+      }
+    }
+  }
+}
